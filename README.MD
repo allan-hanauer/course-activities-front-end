@@ -13,8 +13,8 @@
 <!-- Platforms -->
 <h2 align="center">Supported Platforms</h2>
 <p align="center">
-  <img src="./dio-bank-landing-page-main/public/apple-touch-icon.png" width="100" alt="DIO">
-  <img src="./survey-form-free-code/assets/freecodecamp.svg" width="100" alt="FreeCode Camp">
+  <img src="./dio-bank-landing-page-main/public/apple-touch-icon.png" width="50" alt="DIO">
+  <img src="./survey-form-free-code/assets/freecodecamp.svg" width="50" alt="FreeCode Camp">
 </p>
 
 <!-- Structure -->
