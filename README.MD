@@ -21,16 +21,16 @@
 <!-- Structure -->
 <h2 align="center">Repository Structure</h2>
 <div style="margin-bottom:3px;">
-<p>├── Platform1/</p>
-<p>│   ├── Course1/</p>
-<p>│   │   ├── Week1/</p>
-<p>│   │   ├── Week2/</p>
-<p>│   │   └── ...</p>
-<p>│   ├── Course2/</p>
-<p>│   └── ...</p>
-<p>├── Platform2/</p>
-<p>├── Platform3/</p>
-<p>└── ...</p>
+<p style="margin-bottom:3px;">├── Platform1/</p>
+<p style="margin-bottom:3px;">│   ├── Course1/</p>
+<p style="margin-bottom:3px;">│   │   ├── Week1/</p>
+<p style="margin-bottom:3px;">│   │   ├── Week2/</p>
+<p style="margin-bottom:3px;">│   │   └── ...</p>
+<p style="margin-bottom:3px;">│   ├── Course2/</p>
+<p style="margin-bottom:3px;">│   └── ...</p>
+<p style="margin-bottom:3px;">├── Platform2/</p>
+<p style="margin-bottom:3px;">├── Platform3/</p>
+<p style="margin-bottom:3px;">└── ...</p>
 </div>
 
 <!-- Usage -->
