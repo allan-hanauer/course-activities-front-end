@@ -13,9 +13,8 @@
 <!-- Platforms -->
 <h2 align="center">Supported Platforms</h2>
 <p align="center">
-  <img src="https://platform1logo.com" width="100" alt="Platform 1">
-  <img src="https://platform2logo.com" width="100" alt="Platform 2">
-  <img src="https://platform3logo.com" width="100" alt="Platform 3">
+  <img src="./dio-bank-landing-page-main/public/apple-touch-icon.png" width="100" alt="DIO">
+  <img src="./survey-form-free-code/assets/freecodecamp.svg" width="100" alt="FreeCode Camp">
 </p>
 
 <!-- Structure -->
