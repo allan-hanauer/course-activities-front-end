@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://github.com/account" width="200" alt="Repository Logo">
+  <img src=" https://avatars.githubusercontent.com/u/allan-hanauer" width="200" alt="Repository Logo">
 </p>
 
 <h1 align="center">Course Activities Repository</h1>
