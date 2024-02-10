@@ -13,23 +13,23 @@
 <!-- Platforms -->
 <h2 align="center">Supported Platforms</h2>
 <p align="center">
-  <img src="./dio-bank-landing-page-main/public/apple-touch-icon.png" width="50" alt="DIO">
-  <img src="./survey-form-free-code/assets/freecodecamp.svg" width="50" alt="FreeCode Camp">
+  <img src="./DIO/dio-bank-landing-page-main/public/apple-touch-icon.png" width="30" alt="DIO">
+  <img src="./FreeCodeCamp/survey-form-free-code/assets/freecodecamp.svg" width="30" alt="FreeCode Camp">
 </p>
 
 <!-- Structure -->
 <h2 align="center">Repository Structure</h2>
-<div style="margin-bottom:3px;">
-<p style="margin-bottom:3px;">├── Platform1/</p>
-<p style="margin-bottom:3px;">│   ├── Course1/</p>
-<p style="margin-bottom:3px;">│   │   ├── Week1/</p>
-<p style="margin-bottom:3px;">│   │   ├── Week2/</p>
-<p style="margin-bottom:3px;">│   │   └── ...</p>
-<p style="margin-bottom:3px;">│   ├── Course2/</p>
-<p style="margin-bottom:3px;">│   └── ...</p>
-<p style="margin-bottom:3px;">├── Platform2/</p>
-<p style="margin-bottom:3px;">├── Platform3/</p>
-<p style="margin-bottom:3px;">└── ...</p>
+<div>
+├── Platform1/<br/>
+│   ├── Course1/<br/>
+│   │   ├── Week1/<br/>
+│   │   ├── Week2/<br/>
+│   │   └── ...<br/>
+│   ├── Course2/<br/>
+│   └── ...<br/>
+├── Platform2/<br/>
+├── Platform3/<br/>
+└── ...<br/>
 </div>
 
 <!-- Usage -->
