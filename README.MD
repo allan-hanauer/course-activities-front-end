@@ -20,7 +20,7 @@
 
 <!-- Structure -->
 <h2 align="center">Repository Structure</h2>
-<div style="display:flex;">
+<div style="margin-bottom:3px;">
 <p>├── Platform1/</p>
 <p>│   ├── Course1/</p>
 <p>│   │   ├── Week1/</p>
