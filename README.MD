@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://yourrepositorylogo.com" width="200" alt="Repository Logo">
+  <img src="https://github.com/account" width="200" alt="Repository Logo">
 </p>
 
 <h1 align="center">Course Activities Repository</h1>
@@ -47,5 +47,5 @@
 
 <!-- Footer -->
 <p align="center">
-  Made with ❤️ by [Your Name](https://yourgithubprofile.com)
+  Made with ❤️ by [Allan Hanauer](https://github.com/allan-hanauer)
 </p>
