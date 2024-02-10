@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Free Code Camp - Survey Form</title>
+    <link
+      rel="shortcut icon"
+      href="./assets/freecodecamp.svg"
+      type="image/svg"
+    />
+    <link rel="stylesheet" href="./styles/styles.css" />
+  </head>
+  <body>
+    <main>
+      <section id="header-main">
+        <h1 id="title">freeCodeCamp - Survey Form</h1>
+        <p id="description">
+          Thank you for taking the time to help us improve the platform
+        </p>
+      </section>
+      <section id="form-section">
+        <form id="survey-form">
+          <label id="name-label" for="name">
+            <p>Name</p>
+            <input
+              type="text"
+              class="input-text"
+              name="name"
+              id="name"
+              placeholder="Enter your name"
+              required
+            />
+          </label>
+          <label id="email-label" for="email">
+            <p>Email</p>
+            <input
+              type="email"
+              class="input-text"
+              name="email"
+              id="email"
+              placeholder="Enter your email"
+              required
+            />
+          </label>
+          <label id="number-label" for="age">
+            <p>Age(optional)</p>
+            <input
+              type="number"
+              placeholder="18-130 years"
+              class="input-number"
+              name="age"
+              id="number"
+              min="18"
+              max="130"
+            />
+          </label>
+          <label for="dropdwon">
+            <p>Which option best describes your current role?</p>
+            <select name="dropdwon" id="dropdown">
+              <option value="none" selected disabled>
+                Select Current Role
+              </option>
+              <option value="student">Student</option>
+              <option value="teacher">Teacher</option>
+            </select>
+          </label>
+          <section id="radio-section">
+            <p>Select your gender</p>
+            <label for="masc">
+              <input
+                type="radio"
+                value="masc"
+                name="gender"
+                id="radio-gender"
+              />
+              Masculine
+            </label>
+            <label for="femin">
+              <input type="radio" value="fem" name="gender" id="radio-gender" />
+              Feminine
+            </label>
+          </section>
+          <section class="checkboxs" for="checkboxs">
+            <p>Interested design style</p>
+            <label for="1">
+              <input type="checkbox" value="1" name="1" id="check-1" />
+              Front-end Projects
+            </label>
+            <label for="2">
+              <input type="checkbox" value="2" name="2" id="check-2" />
+              Back-end Projects
+            </label>
+            <label for="3">
+              <input type="checkbox" value="3" name="3" id="check-3" />
+              Data Visualization
+            </label>
+            <label for="4">
+              <input type="checkbox" value="4" name="4" id="check-4" />
+              Challenges
+            </label>
+          </section>
+          <label for="text-area">
+            <p>Any comments or suggestions?</p>
+            <textarea
+              name="comment"
+              id="textarea"
+              placeholder="enter your comment here"
+            ></textarea>
+          </label>
+          <label for="submit">
+            <button type="submit" id="submit">Submit</button>
+          </label>
+        </form>
+      </section>
+    </main>
+  </body>
+</html>
