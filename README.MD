@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src=" https://avatars.githubusercontent.com/u/allan-hanauer" width="200" alt="Repository Logo">
+  <img src="https://avatars.githubusercontent.com/u/allan-hanauer" width="200" alt="Repository Logo">
 </p>
 
 <h1 align="center">Course Activities Repository</h1>
@@ -20,7 +20,7 @@
 
 <!-- Structure -->
 <h2 align="center">Repository Structure</h2>
-<p align="center">
+<p>
   ├── Platform1/ <br>
   │   ├── Course1/ <br>
   │   │   ├── Week1/ <br>
